@@ -1,4 +1,4 @@
-package com.dingsheng.leetcode.findMin;
+package com.dingsheng.leetcode.binarySearch.findMin;
 
 /**
  * @author dingsheng

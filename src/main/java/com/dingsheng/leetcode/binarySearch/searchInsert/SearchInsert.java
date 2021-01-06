@@ -1,4 +1,4 @@
-package com.dingsheng.leetcode.searchInsert;
+package com.dingsheng.leetcode.binarySearch.searchInsert;
 
 import com.sun.tools.javac.util.Assert;
 

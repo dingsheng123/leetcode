@@ -1,4 +1,4 @@
-package com.dingsheng.leetcode.search;
+package com.dingsheng.leetcode.binarySearch.search;
 
 /**
  * @author dingsheng
